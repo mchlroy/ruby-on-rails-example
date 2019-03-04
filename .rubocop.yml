@@ -1,0 +1,13 @@
+Layout/DefEndAlignment:
+  AutoCorrect: true
+Layout/EndAlignment:
+  AutoCorrect: true
+Layout/EndOfLine:
+  EnforcedStyle: lf
+Documentation:
+  Enabled: false
+  Include:
+    - app/models/**/*
+    - lib/**/*
+Rails:
+  Enabled: true
